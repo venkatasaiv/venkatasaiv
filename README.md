@@ -37,7 +37,6 @@ I build end-to-end data solutions — from SQL pipelines and BI dashboards to pr
 |--------|-------------|-------|
 | [🚗 Vehicle Accident Prediction](https://github.com/venkatasaiv/vehicle-accident-prediction) | CNN-based ML model predicting accident risk from telemetry data — 85% accuracy | Python, CNN, Scikit-learn, Pandas |
 | [🧠 Mental Health Services Analysis](https://github.com/venkatasaiv/unt-mental-health-analysis) | Gap analysis of health services for 20K+ students, findings led to 10% resource increase | Python, SQL, Matplotlib |
-| [💬 NLP Text Analysis](https://github.com/venkatasaiv/NLP) | Natural language processing pipeline using spaCy | Python, spaCy, NLTK |
 
 ---
 
